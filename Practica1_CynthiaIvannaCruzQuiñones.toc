@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introdcción}{3}%
+\contentsline {section}{\numberline {2}Curvas de $\mathbb {R}^2$}{3}%
+\contentsline {subsection}{\numberline {2.1}Línea recta}{3}%
+\contentsline {subsubsection}{\numberline {2.1.1}Ejemplos: Linea Recta}{3}%
+\contentsline {subsection}{\numberline {2.2}Parábola}{3}%
+\contentsline {subsubsection}{\numberline {2.2.1}Ejemplos: Parábola}{4}%
+\contentsline {subsection}{\numberline {2.3}Circunferencia}{4}%
+\contentsline {subsubsection}{\numberline {2.3.1}Ejemplos: Circunferencia}{4}%
+\contentsline {subsection}{\numberline {2.4}Elipse}{4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Ejemplos: Elipse}{5}%
+\contentsline {subsection}{\numberline {2.5}Hipérbola}{5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Ejemplos: Hipérbola}{5}%
